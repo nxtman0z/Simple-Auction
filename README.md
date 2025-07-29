@@ -47,3 +47,5 @@ Here’s a preview of the Simple Auction interface:
 
 <img width="1893" height="868" alt="image" src="https://github.com/user-attachments/assets/3b6c0a8f-bddb-4cc2-8f84-b38bbf438541" />
 
+Here is the preview of my frontend section
+<img width="427" height="765" alt="image" src="https://github.com/user-attachments/assets/9c172a82-8ebd-40f1-b49d-166a688fa0d2" />
